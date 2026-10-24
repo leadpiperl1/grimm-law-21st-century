@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this paper, please cite it as below."
+authors:
+  - family-names: Grimm
+    given-names: Justin D.
+title: "21st-Century Grimm's Law (v3.0.0)"
+version: v3.0.0
+date-released: 2026-10-23
